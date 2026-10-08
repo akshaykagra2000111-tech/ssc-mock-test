@@ -1,0 +1,6 @@
+{
+  "name": "SSC Exam Content Engine & Mock Test Portal",
+  "description": "Dynamic SSC CGL & CHSL bilingual mock test engine, authentic CBT exam simulator with detailed Hindi/English solutions, and strict JSON generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
